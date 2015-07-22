@@ -1,0 +1,16 @@
+//You have version 2.7.6 installed.  Great!
+//Now let's see what the latest version is... wait for it...
+//The latest npm is: 2.13.1
+//You have version 2.7.6, but the latest is 2.13.1
+
+//Run 
+	npm install npm -g
+
+//to upgrade it
+
+//You have version 2.13.1 installed.  Great!
+//Now let's see what the latest version is... wait for it...
+//The latest npm is: 2.13.1
+//Congratulations!
+//You have a recent version of npm installed!
+
