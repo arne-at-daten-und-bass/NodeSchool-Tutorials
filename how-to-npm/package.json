@@ -4,11 +4,20 @@
   "description": "NodeSchool tutorial \"how-to-npm\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "npm-tut-account",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.me/me/repo"
+  },
+  "keywords": [
+    "node.js",
+    "how-to-npm"
+  ]
 }
